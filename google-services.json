@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "541778233276",
+    "firebase_url": "https://braintech-music.firebaseio.com",
+    "project_id": "braintech-music",
+    "storage_bucket": "braintech-music.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:541778233276:android:4e8f2c73343db2bbf90db9",
+        "android_client_info": {
+          "package_name": "com.johnmelodyme.braintechsmartapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "541778233276-2e3le449u1loou0t7l3l35p14eu8rnro.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.johnmelodyme.braintechsmartapp",
+            "certificate_hash": "d8fbb0da17ff5ecb20b1a97058089b83e80bc51b"
+          }
+        },
+        {
+          "client_id": "541778233276-718rfnsnd256jiqkqm5urbp2e74ae9lu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2j2TGSlGn8gwXMknipt60x09kG2QoXSg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "541778233276-718rfnsnd256jiqkqm5urbp2e74ae9lu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
